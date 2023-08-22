@@ -17,6 +17,10 @@ This is a smart contract to help with Rent Management. The functionalities inclu
 
 https://drive.google.com/file/d/1fuO72IeW8t5c6Xk5kdyg8-HQJLpp6Pq8/view  
 
+# Implementation Platform - 
+
+https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js&lang=en
+
 
 
 
